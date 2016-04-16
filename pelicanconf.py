@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Edgar Roman'
 SITENAME = u'Bedrock'
 SITEURL = ''
+THEME='pelican-bootstrap3'
 
 PATH = 'content'
 
@@ -33,3 +34,8 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# pelican-bootstrap3 theme options
+DISPLAY_PAGES_ON_MENU=False
+DISPLAY_CATEGORIES_ON_MENU=False
+HIDE_SIDEBAR=True
