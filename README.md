@@ -1,7 +1,7 @@
 # Bedrock Site Source
 
 ## Overview
-The bedrock site uses [**Pelican**](http://getpelican.orgj) to generate the static site at
+The bedrock site uses [**Pelican**](http://blog.getpelican.com/) to generate the static site at
 [http://edgarroman.github.io/bedrock/]()
 
 ## Setup
