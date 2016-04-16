@@ -2,7 +2,7 @@
 
 ## Overview
 The bedrock site uses [**Pelican**](http://blog.getpelican.com/) to generate the static site at
-[http://edgarroman.github.io/bedrock/]()
+[http://edgarroman.github.io/bedrock/]
 
 ## Setup
 * Clone site
